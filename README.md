@@ -1,7 +1,7 @@
 ### 🔥 Pyhooma On Top
 
 ```js
-npm install a-life
+npm install specteado-my-life
 ```
 
 [![Twitter: Specteado1](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/Specteado1)
