@@ -10,8 +10,8 @@ npm install specteado-my-life
 🌐・**Discord: [https://discord.specteado.cf](https://discord.specteado.cf)**
 
 <br>
-<a href="https://github.com/LyricalString">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyricalString&langs_count=3&theme=dark">
+<a href="https://github.com/Specteado">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Specteado&langs_count=3&theme=dark">
 </a>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Sobre mí
