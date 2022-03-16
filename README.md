@@ -3,7 +3,10 @@
 ```js
 npm install specteado-my-life
 ```
-https://github-readme-stats.vercel.app/api/top-langs/?username=Specteado&langs_count=3&theme=dark
+<br>
+<a href="https://github.com/Specteado">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Specteado&langs_count=3&theme=dark">
+</a>
 
 [![Twitter: Specteado1](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/Specteado1)
 [![GitHub Specteado](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Specteado)
