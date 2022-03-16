@@ -3,6 +3,7 @@
 ```js
 npm install specteado-my-life
 ```
+https://github-readme-stats.vercel.app/api/top-langs/?username=Specteado&langs_count=3&theme=dark
 
 [![Twitter: Specteado1](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/Specteado1)
 [![GitHub Specteado](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Specteado)
@@ -24,7 +25,11 @@ const specteado = {
                       },
 }
 ```
-<a href="https://specteado.cf" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/715155658055352360.png"/></a>
+<div align="left">
+  <a href="https://discord.com/users/715155658055352360">
+    <img src="https://lanyard-profile-readme.vercel.app/api/715155658055352360?animated=true" align="left" height="205">
+  </a>
+</div>
 <a href="https://specteado.cf" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
 
 ---
