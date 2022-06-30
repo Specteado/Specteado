@@ -31,7 +31,7 @@ const specteado = {
                       },
 }
 ```
-<div align="left" align="center">
+<div align="center">
   <a href="https://discord.com/users/715155658055352360">
     <img src="https://lanyard-profile-readme.vercel.app/api/715155658055352360?animated=true" align="left" height="205">
   </a>
