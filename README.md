@@ -33,7 +33,7 @@ const specteado = {
 ```
 <div align="center">
   <a href="https://discord.com/users/715155658055352360">
-    <img src="https://lanyard-profile-readme.vercel.app/api/715155658055352360?animated=true" align="left" height="205">
+    <img src="https://lanyard-profile-readme.vercel.app/api/715155658055352360?animated=true" align="left" align="center" height="205">
   </a>
 </div>
 <a href="https://specteado.cf" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
