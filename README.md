@@ -9,7 +9,9 @@ npm install specteado-my-life
 🌐・**Website: [https://specteado.cf](https://specteado.cf)**
 🌐・**Discord: [https://discord.specteado.cf](https://discord.specteado.cf)**
 
+
 <br>
+<div align="center">
 <a href="https://github.com/Specteado">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Specteado&langs_count=3&theme=dark">
 </a>
