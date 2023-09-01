@@ -1,13 +1,13 @@
 ### 🔥 Pyhooma On Top
 
 ```js
-npm install specteado-my-life
+npm install specteado-fuck
 ```
 
 [![Twitter: Specteado1](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/Specteado1)
 [![GitHub Specteado](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Specteado)
-🌐・**Website: [https://specteado.cf](https://specteado.cf)**
-🌐・**Discord: [https://discord.specteado.cf](https://discord.specteado.cf)**
+🌐・**Website: [Proximamente]()**
+🌐・**Discord: Specteado#0000**
 
 
 <br>
